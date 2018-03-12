@@ -7,6 +7,7 @@ AGENT_BASED_INTEGRATIONS = [
     "disk",
     "kubelet",
     "vsphere",
+    "istio",
 ]
 
 @task(help={
